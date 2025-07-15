@@ -10,11 +10,6 @@
 - **Backend:**    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  ![API REST](https://img.shields.io/badge/API_REST-FF6C37?style=flat&logo=json&logoColor=white)
 - **Bases de Datos:**    ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=ACSBITMEN&show_icons=true&theme=radical)](https://github.com/ACSBITMEN)
-[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=ACSBITMEN&layout=compact&theme=radical)](https://github.com/ACSBITMEN)
-
 ## 📫 ¿Quieres contactarme?
 
 - 💼 LinkedIn: [Andrés Suárez Bully](https://www.linkedin.com/in/andr%C3%A9s-su%C3%A1rez-bully-5a5432285/)
