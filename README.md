@@ -1,4 +1,4 @@
-[![]([https://raw.githubusercontent.com/ACSBITMEN/ACSBITMEN/refs/heads/main/Portada-Github.png](https://raw.githubusercontent.com/ACSBITMEN/ACSBITMEN/refs/heads/main/Banner_andressuarez.gif))](https://acsbitmen.github.io/MyPageWeb/)
+[![](https://raw.githubusercontent.com/ACSBITMEN/ACSBITMEN/refs/heads/main/Banner_andressuarez.gif)](https://acsbitmen.github.io/MyPageWeb/)
 # Ingeniero de sistemas & Desarrollador 
 
 ⭐ **"El código es arte y el limite es nuestra imaginación."**
